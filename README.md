@@ -1,2 +1,3 @@
-# T-cnicas-de-NLP-y-AI-aplicadas-a-textos-semiestructurados
-"about us" 
+# Tecnicas-de-NLP-y-AI-aplicadas-a-textos-semiestructurados
+
+"Repositorio descriptivo de los servicios utilizados para el procesamiento de textos semiestructurados."
