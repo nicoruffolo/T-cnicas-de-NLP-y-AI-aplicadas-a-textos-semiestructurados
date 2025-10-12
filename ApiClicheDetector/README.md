@@ -1,3 +1,3 @@
 # Tecnicas-de-NLP-y-AI-aplicadas-a-textos-semiestructurados
 
-"Repositorio descriptivo de los servicios utilizados para el procesamiento de textos semiestructurados."
+"El objetivo de ApiClicheDetector consiste en analizar una oración en español para detectar la presencia de clichés, es decir, expresiones comunes o predecibles que se repiten con frecuencia en el lenguaje. Durante el análisis, el texto recibido se compara con una lista predefinida de clichés pertenecientes al dominio de interés. Se calcula un porcentaje de similitud semántica entre la oración y los clichés conocidos; aquellos que superan un umbral mínimo son agregados a una lista de coincidencias. En caso correcto devuelve los fragmentos encontrados y si no se detectan clichés, retorna el mensaje, No se detectaron clichés ."
