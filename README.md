@@ -23,6 +23,10 @@ Cada carpeta o archivo del repositorio corresponde a un **servicio independiente
 | **ApiImpersonalSentences** | Identifica si una oración es **impersonal**, es decir, sin sujeto agente explícito. |
 | **ApiClicheDetector** | Detecta **clichés** o expresiones comunes mediante análisis de similitud semántica. |
 | **ApiLogicalConnectors** | Encuentra **conectores lógicos** en el texto (simples o compuestos) usando *spaCy* y *PhraseMatcher*. |
+| **ApiOpinionPerceptionVerbs** | Encuentra **Verbos** de opinion o percepcion. |
+| **ApiReadabilityMetric** | Evalua **Legibilidad** de un texto. |
+| **ApiTenses** | Identifica **Verbos** junto con su **tiempo verbal**. |
+
 
 ---
 
