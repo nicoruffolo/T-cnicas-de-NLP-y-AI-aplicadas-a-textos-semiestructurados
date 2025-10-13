@@ -1,4 +1,4 @@
-# Tecnicas-de-NLP-y-AI-aplicadas-a-textos-semiestructurados
+# Técnicas de NLP y AI aplicadas a textos semiestructurados para identificar similitud y extraer información
 
 # 🧩 Procesamiento de Textos Semiestructurados
 
