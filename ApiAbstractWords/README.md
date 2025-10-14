@@ -3,16 +3,16 @@
 Una “abstract word” (en inglés) —o palabra abstracta— es un término lingüístico que hace referencia a conceptos que no son tangibles, es decir, que no se perciben directamente con los sentidos. A diferencia de palabras concretas (“mesa”, “perro”, “rojo”) que designan objetos, acciones o propiedades que podemos ver, tocar, oír, oler o saborear, una palabra abstracta se refiere a ideas, sentimientos, valores, cualidades, procesos mentales o estados que no tienen una forma física inmediata.
 
 ## Ejemplos
-- **love** — *amor*  
-- **freedom** — *libertad*  
-- **justice** — *justicia*  
-- **truth** — *verdad*  
-- **happiness** — *felicidad*  
-- **courage** — *coraje*  
-- **anger** — *ira*  
-- **knowledge** — *conocimiento*  
-- **loyalty** — *lealtad*  
-- **peace** — *paz*  
+- *amor*  
+- *libertad*  
+- *justicia*  
+- *verdad*  
+- *felicidad*  
+- *coraje*  
+- *ira*  
+- *conocimiento*  
+- *lealtad*  
+- *paz*  
 
 ## Objetivo de la api
 El objetivo de ApiAbstractWords consiste en procesar un texto en español para identificar términos abstractos presentes en sustantivos, adjetivos y verbos. Combina reglas morfológicas, que detectan palabras con sufijos asociados a la abstracción, con un análisis de similitud semántica basado en vectores de palabras. Devuelve una lista de términos abstractos encontrados en el texto de entrada.
