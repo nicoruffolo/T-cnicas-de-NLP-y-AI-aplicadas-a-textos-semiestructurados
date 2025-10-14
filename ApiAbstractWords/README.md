@@ -33,10 +33,10 @@ En la figura 1:
 
 - “esenciales” se detecta como adjetivo semánticamente cercano a “importante”, “bello”, “virtud”, etc., por lo tanto también se marca como abstracta.
 
-![Figura 2:  Una parte de “Love can transform the world more than any weapon or word.”](imagen2.png)
+![Figura 2:  Una parte de “El amor puede transformar el mundo más que cualquier arma o palabra.”](imagen2.png)
 
 
-**Figura 2. Una parte del diagrama de la frase “Love can transform the world more than any weapon or word.”**  
+**Figura 2. Una parte del diagrama de la frase “El amor puede transformar el mundo más que cualquier arma o palabra.”**  
 
 En la figura 2:
 - “amor” es claramente una palabra abstracta.
