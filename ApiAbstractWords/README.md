@@ -23,10 +23,10 @@ Además, detecta posibles palabras abstractas por **prefijos** (`in-`, `im-`, `i
 
 ## Ejemplos guiados
 
-![Figura 1:  “Friendship and freedom are essential for happiness”](imagen1.png)
+![Figura 1:  “La amistad y la libertad son esenciales para la felicidad.”](imagen1.png)
 
 
-**Figura 1.  “Friendship and freedom are essential for happiness”**  
+**Figura 1.  “La amistad y la libertad son esenciales para la felicidad.”**  
 
 En la figura 1:
 - “amistad”, “libertad” y “felicidad” están en la lista de referencia de palabras abstractas.
