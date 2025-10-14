@@ -1,4 +1,4 @@
-# Api de deteccion de conversion de voz pasiva a activa
+# Api de conversion de voz pasiva a activa
 
 ## Definicion
 
