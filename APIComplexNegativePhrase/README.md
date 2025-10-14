@@ -48,22 +48,30 @@ Para las siguientes figuras el análisis explicado en forma resumida es: Encontr
 Nota: usaremos ASL para referirnos al Árbol sintáctico de dependencias.
 
 ![Figura 1: ASL de “nadie dijo nada”](imagen1.png)
+
+
 **Figura 1. ASL de “nadie dijo nada”**  
 
 En la Figura 1. tenemos otro caso en el que reforzamos la negativa en lugar de que estas se cancelen, “nada” como recibe la acción del verbo principal es su objeto directo (obj) según la relación de dependencias y la podemos usar para ignorar casos similares donde en lugar de caer en doble negación terminamos en negación reforzada.
 
 ![Figura 2: ASL de “no existe ningun camino”](imagen2.png)
+
+
 **Figura 2. ASL de “no existe ningun camino”**  
 
 En la Figura 2. tenemos otro caso distinto al de la Figura 2 de refuerzo y esto por el propio léxico tenemos que decir solamente “existe ningún camino” no es lo normal, se ocupa una negación antes del verbo principal y esto podemos diferenciarlo de otros casos por la dependencia que posee el hijo de “camino”, el determinante tiene una carga negativa (en este ejemplo) que actúa sobre el sustantivo “camino” pero no sobre el verbo principal “existe”, como resultado se acumula la negación del verbo + negación del sustantivo y es el motivo por el cual ignorar los tokens cuyos hijos poseen determinantes (al menos negativos) es una aproximación aceptable para diferenciar este caso de otros como por ejemplo la Figura 3. donde tenemos una negación simple a que existan 17 caminos, este número tiene una dependencia de nummod por lo tanto es negado en lugar de reforzar por no tener determinante negativo, lo mismo ocurre si usamos determinantes positivos  o neutros.
 
 ![Figura 3: ASL de “no existen 17 caminos”](imagen3.png)
+
+
 **Figura 3. ASL de “no existen 17 caminos”** 
 
 Finalmente dejamos este espacio y la última figura para un caso de doble negación. 
 La primera negación encontrada proviene del adjetivo “imposible”, considerado aquí porque semánticamente representa la negación de "posible", como se muestra en la Figura 4, donde esta misma negación es negada por un token hijo que tiene la dependencia de modificador adverbial (advmod).
 
 ![Figura 4: ASL de “no es imposible que venga”](imagen4.png)
+
+
 **Figura 4. ASL de “no es imposible que venga”** 
 
 
