@@ -67,13 +67,3 @@ Cada error identificado se almacena como un diccionario con:
 | “El  texto tiene  doble  espacio.” | ` " " `              | Espaciado inadecuado                         |
 | “terminó la frase. ahora sigue.”   | `ahora`           | Falta mayúscula tras punto                   |
 
-
-## Ventajas 
-
-1) Detecta múltiples tipos de errores: puntuación, espaciado y capitalización.
-
-2) Proporciona posiciones exactas de los errores en el texto.
-
-3) Mantiene el texto original sin alteraciones.
-
-4) Permite integrar fácilmente la salida con herramientas de análisis o corrección automática.

@@ -57,13 +57,3 @@ Devuelve un diccionario con las palabras repetidas detectadas y su frecuencia.
 | “Corre, corre, que te alcanza.”                           | `{"corre": 2}`                                 |
 | “El software y el hardware del sistema están integrados.” | `{}` *(“software” y “hardware” no se repiten)* |
 
-
-## Ventajas 
-
-1) Detecta repeticiones exactas y morfológicas (singular/plural, conjugaciones).
-
-2) Permite ignorar palabras funcionales irrelevantes para el análisis.
-
-3) Devuelve resultados estructurados y cuantificables.
-
-4) Mejora la calidad lingüística del texto al detectar redundancias.
