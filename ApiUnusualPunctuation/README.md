@@ -3,7 +3,7 @@
 ## Definicion
 
 La puntuación es un conjunto de signos gráficos que estructuran un texto escrito, indican pausas, entonación y delimitan unidades de sentido.
-El uso incorrecto de la puntuación —como la falta de signos de apertura, repeticiones excesivas o errores de espaciado— puede alterar significativamente la claridad, coherencia y legibilidad de una oración.
+El uso incorrecto de la puntuación como la falta de signos de apertura, repeticiones excesivas o errores de espaciado puede alterar significativamente la claridad, coherencia y legibilidad de una oración.
 
 El servicio ApiUnusualPunctuation analiza textos en español para detectar patrones anómalos o inconsistentes en la puntuación y el uso de mayúsculas/minúsculas, con el fin de identificar errores formales que afectan la calidad del texto.
 
@@ -64,7 +64,7 @@ Cada error identificado se almacena como un diccionario con:
 | “¡Qué lindo día!!”                 | `!!`              | Repetición excesiva de signos de exclamación |
 | “Cómo estas?”                     | `estas`           | Falta signo de apertura “¿”                  |
 | “(Hola, qué tal?”                  | `(Hola, qué tal?` | Paréntesis sin cierre                        |
-| “El  texto tiene  doble  espacio.” | `  `              | Espaciado inadecuado                         |
+| “El  texto tiene  doble  espacio.” | ` " " `              | Espaciado inadecuado                         |
 | “terminó la frase. ahora sigue.”   | `ahora`           | Falta mayúscula tras punto                   |
 
 
