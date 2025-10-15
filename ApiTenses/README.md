@@ -47,3 +47,11 @@ Se extraen todos los tokens con categoría verbal (VERB, AUX).
   .El verbo o perífrasis detectada.
 
   .El tiempo verbal correspondiente.
+
+## Ventajas 
+
+1. Detecta tiempos verbales simples, compuestos y perifrásticos.
+
+2. Soporta perífrasis discontinuas.
+
+3. Devuelve resultados estructurados y fáciles de procesar.
